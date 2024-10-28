@@ -10,5 +10,5 @@ jobs:
     steps:
       - uses: actions/add-to-project@v1.0.2
         with:
-          project-url: https://github.com/orgs/ci-pros/projects/1
+          project-url: https://github.com/orgs/ci-pros/projects/2
           github-token: ${{ secrets.REPO_PAT }}
